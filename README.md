@@ -66,6 +66,8 @@
 
 [LAB21.5](/labs/lab21.5.md): Setup IAM User & AWS CLI untuk SSM
 
+[LAB 22](/labs/lab22.md): Pengurusan Pengguna, Kumpulan & Skrip Shell
+
 ---
 
 ### 🎯 SESI 15+: DNS & Domain Management
